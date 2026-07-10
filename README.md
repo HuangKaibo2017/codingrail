@@ -1,6 +1,6 @@
 ---
 name: codingrail
-description: AI coding guardrail — sp_coding_rules (implementer playbook) :: sp_codereview_rules (reviewer checklist) :: SSOT rules :: language-agnostic
+description: "AI coding guardrail — sp_coding_rules (implementer playbook) :: sp_codereview_rules (reviewer checklist) :: SSOT rules :: language-agnostic"
 license: MIT
 metadata:
   author: Aaron Huang (aaron.kb.h@gmail.com)
