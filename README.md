@@ -14,9 +14,11 @@ metadata:
 
 Two docs, one SSOT. `sp_coding_rules.md` -> implementer :: `sp_codereview_rules.md` -> reviewer :: rules share `rules/` SSOT
 
-TOON\[2]{doc,role,flow}:
-sp\_coding\_rules.md,Implementer,Decision Ladder → While Coding → Self-Review → Anti-Patterns
-sp\_codereview\_rules.md,Reviewer,Decision Flow → Lite/Full → Diff Pre-Scan → PR Gate → Priority
+TOON[2]{doc,role,flow}:
+
+sp_coding_rules.md,Implementer,Decision Ladder → While Coding → Self-Review → Anti-Patterns
+
+sp_codereview_rules.md,Reviewer,Decision Flow → Lite/Full → Diff Pre-Scan → PR Gate → Priority
 
 ## Arch Decisions
 
@@ -51,14 +53,23 @@ Preamble: "Best code = code never written." 7-rung Decision Ladder encoded in §
 ## File Map
 
 TOON[9]{file,role}:
+
 README.md,this file
+
 sp_coding_rules.md,implementer playbook
+
 sp_codereview_rules.md,reviewer checklist + decision flow
+
 rules/intent-scope.md,R-1-1..R-1-4
+
 rules/reuse-dry.md,R-2-1..R-2-6
+
 rules/correctness-safety.md,R-3-1..R-3-7
+
 rules/resilience-observability.md,R-4-1..R-4-4
+
 rules/maintainability.md,R-5-1..R-5-5
+
 rules/simplification.md,R-6-1..R-6-4
 
 ## Usage
