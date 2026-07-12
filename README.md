@@ -50,10 +50,10 @@ Preamble: "Best code = code never written." 7-rung Decision Ladder encoded in §
 
 ## File Map
 
-TOON\[9]{file,role}:
+TOON[9]{file,role}:
 README.md,this file
-sp\_coding\_rules.md,implementer playbook
-sp\_codereview\_rules.md,reviewer checklist + decision flow
+sp_coding_rules.md,implementer playbook
+sp_codereview_rules.md,reviewer checklist + decision flow
 rules/intent-scope.md,R-1-1..R-1-4
 rules/reuse-dry.md,R-2-1..R-2-6
 rules/correctness-safety.md,R-3-1..R-3-7
