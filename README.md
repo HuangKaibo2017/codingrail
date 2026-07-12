@@ -14,8 +14,6 @@ metadata:
 
 Two docs, one SSOT. `sp_coding_rules.md` -> implementer :: `sp_codereview_rules.md` -> reviewer :: rules share `rules/` SSOT
 
-TOON[2]{doc,role,flow}:
-
 sp_coding_rules.md,Implementer,Decision Ladder → While Coding → Self-Review → Anti-Patterns
 
 sp_codereview_rules.md,Reviewer,Decision Flow → Lite/Full → Diff Pre-Scan → PR Gate → Priority
@@ -51,8 +49,6 @@ Universal patterns: "shell exec w/ string concat" not `subprocess.run`; "data cl
 Preamble: "Best code = code never written." 7-rung Decision Ladder encoded in §2 Reuse + §6 Simplification.
 
 ## File Map
-
-TOON[9]{file,role}:
 
 README.md,this file
 
