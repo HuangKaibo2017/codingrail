@@ -44,7 +44,7 @@ Step 3 — Pre-Scan: 20 escalation signals → force-apply matched
 
 Universal patterns: "shell exec w/ string concat" not `subprocess.run`; "data class/struct/record" not `@dataclass`.
 
-### 6. Ponytail lineage
+### 6. Decision Ladder lineage
 
 Preamble: "Best code = code never written." 7-rung Decision Ladder encoded in §2 Reuse + §6 Simplification.
 

@@ -41,7 +41,7 @@ TOON\[9]{trigger,rule,check}:
 
 ### Implementer-Only Rules
 
-- **Mark shortcuts:** comment ceiling + upgrade path: `# ponytail: single lock. >1k writers → striped lock.`
+- **Mark shortcuts:** comment ceiling + upgrade path: `# shortcut: single lock. >1k writers → striped lock.`
 - **Run tests:** warnings/deprecations/logs are findings. Output pristine.
 - **Leave ONE check:** non-trivial → smallest thing that fails. Trivial → skip.
 - **Commit atomic:** one thing per commit. Message explains **why**.
